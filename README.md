@@ -99,6 +99,10 @@ Plan B si mauvaise météo  “Loch sans sommet”
  1)Rester côté Balloch : balade au bord du loch + parc 
  2)profiter du loch tout en restant sur sentier plus abrité.
 
+**une rando plus cotière au choix**
+ North Berwick : randonnée côtière
+ 
+
 ## 🌿 Jour 3 – Stirling
 🚆 Train Inverkeithing → Édimbourg (~25 min)→  North Berwick
 🚆 Train Inverkeithing → Edinburgh Waverley (direct, ~27 min en moyenne).
@@ -108,7 +112,7 @@ Plan B si mauvaise météo  “Loch sans sommet”
  Départ : North Berwick (depuis la gare, rejoindre le front de mer en 10–15 min).
  1) Se diriger vers port (harbour) : vue sur Bass Rock.
  2) Suivre le sentier côtier vers les points de vue (falaises).
- 3) 
+
 💡 Bon réflexe : consulter **WalkHighlands**  
 (filtrer par randonnées accessibles sans voiture)
 
@@ -118,15 +122,11 @@ Plan B si mauvaise météo  “Loch sans sommet”
 **Fin de séjour douce**
 
 **Matin**
-- Royal Mile
-- Vieille ville
-- **Calton Hill** (facile & superbe vue)
+balade en ville 
 
 **Après-midi**
-- Leith ou Water of Leith
-- Dernier café / souvenirs
 
-🚆 Retour vers Inverkeithing
+🚆 Retour vers aéroport
 
 ---
 
