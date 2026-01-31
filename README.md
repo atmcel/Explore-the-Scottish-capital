@@ -20,7 +20,7 @@ Inverkeithing / Édimbourg
 
 Programme optimisé pour un séjour **début février** :
 
-- ✅ **Randonnées modérées** (J1 & J4)  
+- ✅ **Balades + randonnées +  ville** (J1 & J4)  
 - ✅ **Nature** (J2 & J3)  
 - ✅ **Déplacements en transport public** (train / bus)  
 - ✅ **Restaurants proches d’Inverkeithing**  
@@ -130,14 +130,12 @@ Plan B si mauvaise météo  “Loch sans sommet”
 
 ---
 
-## 🍽️ Restaurants – Inverkeithing (zone base)
+## 🍽️ Restaurants
 
-Suggestions générales :
-- 🍺 Pub traditionnel (fish & chips, haggis)
-- 🍲 Bistro / brasserie cosy
-- ☕ Café local pour petit-déjeuner ou tea time
-
-*(Liste précise possible selon budget et préférences)*
+-**Inverkeithing** Gulshan Tandoori (centre d’Inverkeithing).
+-**Rosyth** (proche, simple d’accès) Taste of India (Rosyth)
+-**Dunfermline**(proche, plus de choix) Everest Inn – indien/népalais 
+-Antioch Turkish Restaurant – turc
 
 ---
 
@@ -154,7 +152,6 @@ Suggestions générales :
 
 
 
-📜 Licence
-Ce guide est à informatif. Vérifiez toujours les informations.
+📜Ce guide est à informatif. Vérifiez toujours les informations.
 
 Bon voyage en Écosse ! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
