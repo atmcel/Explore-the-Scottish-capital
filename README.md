@@ -154,13 +154,8 @@ Suggestions générales :
 <span style="color:#4682b4"><strong>Bon voyage en Écosse ! 🏴</strong></span>
 
 
-🔗 Liens utiles
-ServiceLienUsageScotRailwww.scotrail.co.ukHoraires trainsTraveline Scotlandwww.travelinescotland.comHoraires busMet Officewww.metoffice.gov.ukMétéoVisitScotlandwww.visitscotland.comInfo touristiques
-
-📝 Notes
-Utilisez cette section pour vos notes personnelles, ajustements d'itinéraire, ou recommandations découvertes sur place.
 
 📜 Licence
-Ce guide est fourni à titre informatif. Vérifiez toujours les informations à jour avant votre départ.
+Ce guide est à informatif. Vérifiez toujours les informations.
 
 Bon voyage en Écosse ! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
