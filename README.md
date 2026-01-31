@@ -132,9 +132,9 @@ balade en ville
 
 ## 🍽️ Restaurants
 
--**Inverkeithing** Gulshan Tandoori (centre d’Inverkeithing).
--**Rosyth** (proche, simple d’accès) Taste of India (Rosyth)
--**Dunfermline**(proche, plus de choix) Everest Inn – indien/népalais 
+**Inverkeithing** Gulshan Tandoori (centre d’Inverkeithing)
+**Rosyth** (proche, simple d’accès) Taste of India (Rosyth)
+**Dunfermline**(proche, plus de choix) Everest Inn – indien/népalais 
 -Antioch Turkish Restaurant – turc
 
 ---
