@@ -5,9 +5,9 @@ Inverkeithing / Édimbourg
 
 ---
 
-## 📍 Base du séjour
+## 📍Séjour
 **Inverkeithing / Édimbourg**  
-🚆 Environ **25 min de train** entre les deux (ScotRail)
+🚆 Environ **25 min de train** entre les deux (de gare en gare)
 
 ---
 
@@ -16,12 +16,12 @@ Inverkeithing / Édimbourg
 
 ---
 
-## 📋 Idée générale
+## 📋 vue d'ensemble 
 
-Programme optimisé pour un séjour **début février**, en tenant compte de :
+Programme optimisé pour un séjour **début février** :
 
 - ✅ **Randonnées modérées** (J1 & J4)  
-- ✅ **Excursions nature** (J2 & J3)  
+- ✅ **Nature** (J2 & J3)  
 - ✅ **Déplacements en transport public** (train / bus)  
 - ✅ **Restaurants proches d’Inverkeithing**  
 - ✅ **Jours courts & météo hivernale**
@@ -59,63 +59,62 @@ Programme optimisé pour un séjour **début février**, en tenant compte de :
 
 ---
 
-## 🥾 Jour 1 – Inverkeithing & côte du Forth  
+## 🥾 Jour 1 – Édimbourg
 **Randonnée facile – mise en jambes**
-
-**Matin**
-- Ballade à **Ballast Bank Park**
-- Vues sur les **ponts du Forth**
-- Découverte du centre historique d’Inverkeithing
-
-**Après-midi**
-- **Fife Coastal Path**  
-  *Inverkeithing → North Queensferry*  
-  📏 3 à 6 km A/R – sentier côtier, facile
-
-**Soir**
-- 🍽️ Dîner à Inverkeithing  
-  - Pub traditionnel  
-  - Cuisine écossaise réconfortante
-
----
-
-## 🌄 Jour 2 – Nature à Édimbourg  
-**Randonnée modérée – panoramas**
-
 🚆 Train Inverkeithing → Édimbourg (~25 min)
 
-**Randonnée**
-- **Blackford Hill**
-  - Sentiers boisés
-  - Vue panoramique sur la ville et le Firth of Forth
+**Matin**
+- Ballade à **Holyrood Park et suivre les panneaux “Arthur’s Seat”.**
+-  Monter progressivement par le sentier principal . **(large, fréquenté)**
+- Au col : continuer au sommet
 
-**Option**
-- **Water of Leith Walkway**
-  - Promenade nature en pleine ville
+**Après-midi**
+- Royal Mile (balade)
+- National Museum of Scotland (gratuit)
+- Calton Hill pour le coucher de soleil si ciel dégagé
 
-**Soir**
-- 🍽️ Restaurant ou pub dans Old Town / Grassmarket
 
 ---
 
-## 🌿 Jour 3 – Excursion nature sans voiture
+## 🌄 Jour 2 – Loch Lomond : 
+**lac + randonnée Conic Hill**
 
-Selon la météo :
+🚆 Train Inverkeithing → Édimbourg (~25 min)→ Balloch → Balmaha
 
-### Options accessibles en transport public
-- 🌳 **Corstorphine Hill**  
-  Forêt + vues, accès bus urbain
-- 🏰 **Roslin Glen & Rosslyn Chapel**  
-  Nature + patrimoine
-- 🌊 **Gullane / Aberlady Bay**  
-  Paysages côtiers hivernaux
+**Étape A – Train vers Balloch (avec correspondance)**
+1) Inverkeithing → Edinburgh Waverley 
+2) Edinburgh Waverley → Glasgow Queen Street (train).
+3) À Glasgow : rejoindre la partie “Queen Street Low Level” → train vers Balloch. Temps total typique Édimbourg → Balloch : ~2h–2h15 avec correspondance.
+   
+**Étape B – Bus Balloch → Balmaha**
+ 1)Bus 309 (opérateur McColls Travel) : Balloch Bus Terminus → Balmaha (Car Park). 
+2) Durée typique : ~20–25 min. Fréquence variable selon le jour/saison.
 
+Itinéraire à pied – Conic Hill (modéré) Départ : Balmaha Car Park (près du Visitor Centre). 1) Depuis le parking, suivre le sentier balisé vers Conic Hill (chemin clair). 
+2) Montée en forêt puis sur crête : le vent peut être fort sur la partie haute. 
+3) Sommet / point haut : vues superbes sur Loch Lomond et les îlots
+4) Retour par le même itinéraire (le plus simple en hiver). 
+
+Plan B si mauvaise météo  “Loch sans sommet”
+ 1)Rester côté Balloch : balade au bord du loch + parc 
+ 2)profiter du loch tout en restant sur sentier plus abrité.
+
+## 🌿 Jour 3 – Stirling
+🚆 Train Inverkeithing → Édimbourg (~25 min)→  North Berwick
+🚆 Train Inverkeithing → Edinburgh Waverley (direct, ~27 min en moyenne).
+🚆Train Edinburgh Waverley → North Berwick (direct, ~35 min en moyenne)
+
+ Itinéraire à pied – boucle côtière simple
+ Départ : North Berwick (depuis la gare, rejoindre le front de mer en 10–15 min).
+ 1) Se diriger vers port (harbour) : vue sur Bass Rock.
+ 2) Suivre le sentier côtier vers les points de vue (falaises).
+ 3) 
 💡 Bon réflexe : consulter **WalkHighlands**  
 (filtrer par randonnées accessibles sans voiture)
 
 ---
 
-## 🏙️ Jour 4 – Édimbourg & panoramas urbains  
+## 🏙️ Jour 4 –  North Berwick
 **Fin de séjour douce**
 
 **Matin**
